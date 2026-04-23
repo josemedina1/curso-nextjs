@@ -2,7 +2,7 @@
 
 import { usePathname } from 'next/navigation';
 import React, { JSX } from 'react'
-import path from 'path';
+
 import Link from 'next/link';
 
 
